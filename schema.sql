@@ -64,28 +64,28 @@ CREATE TABLE employee (
 );
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("John", "Doe", 1, null);
+VALUES ("Douglas", "Bush", 1, null);
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Mike", "Chan", 2, "John Doe");
+VALUES ("Darrell", "Daniels", 2, "Henry");
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Ashley", "Rodriguez", 3, null);
+VALUES ("Jessica", "Maynard", 3, null);
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Kevin", "Tupik", 4, "Ashley Rodriguez");
+VALUES ("Carleigh", "Preston", 4, "Henry");
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Kunal", "Singh", 5, null);
+VALUES ("Colt", "Lopez", 5, null);
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Malia", "Brown", 6, "Kunal Singh");
+VALUES ("Abigail", "Frye", 6, "Henry");
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Sarah", "Lourd", 7, null);
+VALUES ("Harley", "Barnes", 7, null);
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Tom", "Allen", 8, "Sarah Lourde");
+VALUES ("Gemmma", "Sea", 8, "Tara");
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Hanna", "Lauth", 3, "Kevin Tupic");
+VALUES ("Judah", "Waters", 3, "Tara");
